@@ -21,7 +21,7 @@ This project analyzes sales data for a Coffee Shop over two years (2024 and Q1 2
 
 | Category | Features Used |
 | :--- | :--- |
-| **Analysis** | Pivot Tables, Slicers, Forecasting, Sorting & Filtering |
+| **Analysis** | Pivot Tables, Slicers, Forecasting, Sorting , Filtering & Data Cleaning |
 | **Formulas** | `XLOOKUP`, `SUMIFS`, `INDEX`, `RANK`, `SLOPE`, `IF`, `AVERAGE` |
 | **Visualization** | Dynamic Charts, Sparklines, Conditional Formatting |
 
