@@ -95,14 +95,13 @@ Based on the data analysis, the following actions are recommended to improve pro
   <img width="1364" height="764" alt="Caffe Sales Excel Analysis Dachboard4" src="https://github.com/user-attachments/assets/4d96e78f-6787-4234-a1e8-83179fef7317" />
   <img width="1364" height="768" alt="Caffe Sales Excel Analysis Dachboard5" src="https://github.com/user-attachments/assets/91a1698c-c454-4d9d-a99b-d20c2071201f" />
 
-  
+## 📂 Project Structure & Data Files
 
-  
+To demonstrate the complete data lifecycle, this repository includes two main data versions:
 
-  
+1.  **Caffe_Sales_Analysis_Project.CSV:** (Final Project)
+    * This workbook contains the cleaned data, full Pivot Tables setup, all formulas, and the interactive Dashboard presented above.
 
-
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Upload+Your+Dashboard+Image+Here)
-
----
+2.  **Raw_Data/Original_Caffe_Sales_Data.CSV:** (Original Source)
+    * This file represents the initial, untouched dataset, reflecting the structure before data cleaning and transformation was applied. It validates the data preparation phase of the project.
 *Prepared by: Dr. Ahmed Mahmoud Fathy*
